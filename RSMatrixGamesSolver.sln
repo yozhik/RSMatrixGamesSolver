@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSMatrixGamesSolver", "RSMatrixGamesSolver\RSMatrixGamesSolver.csproj", "{DCB0B4B0-520D-4C0D-8B6B-F86A8906F769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simplex", "Simplex\Simplex.csproj", "{3983F086-0DCF-4BED-8884-21DBE51F74FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "Converter\Converter.csproj", "{665EE906-69DF-417A-8D95-AAD2D8651CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB0B4B0-520D-4C0D-8B6B-F86A8906F769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB0B4B0-520D-4C0D-8B6B-F86A8906F769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB0B4B0-520D-4C0D-8B6B-F86A8906F769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB0B4B0-520D-4C0D-8B6B-F86A8906F769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3983F086-0DCF-4BED-8884-21DBE51F74FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3983F086-0DCF-4BED-8884-21DBE51F74FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3983F086-0DCF-4BED-8884-21DBE51F74FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3983F086-0DCF-4BED-8884-21DBE51F74FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665EE906-69DF-417A-8D95-AAD2D8651CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665EE906-69DF-417A-8D95-AAD2D8651CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665EE906-69DF-417A-8D95-AAD2D8651CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665EE906-69DF-417A-8D95-AAD2D8651CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
